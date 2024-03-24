@@ -5,7 +5,7 @@
 <p align="left">CEO & Co-Founder at <a href="https://www.weekn.app" target="_blank">Weekn</a></p>
 
 <a href="https://www.weekn.app" target="_blank">
-  <img src="https://weekn-images.s3.eu-west-3.amazonaws.com/LogoWeeknSponsor.png" height="40" alt="Weekn logo" />
+  <img src="https://weekn-images.s3.eu-west-3.amazonaws.com/LogoWeeknSponsor.png" height="100" alt="Weekn logo" />
 </a>
 <img width="25" />
 
