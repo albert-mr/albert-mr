@@ -7,7 +7,7 @@
 <a href="https://www.weekn.app" target="_blank">
   <img src="https://weekn-images.s3.eu-west-3.amazonaws.com/LogoWeeknSponsor.png" height="40" alt="Weekn logo" />
 </a>
-<img width="12" />
+<img width="25" />
 
 ###
 
