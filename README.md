@@ -12,7 +12,6 @@
 ###
 
 <div align="center">
-  <img src="https://albert-github-stats.vercel.app/api/top-langs?username=albert-mr&locale=en&layout=compact&card_width=320&theme=omni" height="150" alt="languages graph">
   <img src="https://streak-stats.demolab.com?user=albert-mr&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 </div>
